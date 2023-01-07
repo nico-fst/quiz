@@ -1,0 +1,123 @@
+{
+"response_code": 0,
+"results": [
+{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "hard",
+"question": "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+"correct_answer": "Ron Grainer",
+"incorrect_answers": [
+"Murray Gold",
+"Delia Derbyshire",
+"Peter Howell"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+"correct_answer": "Yale University",
+"incorrect_answers": [
+"Princeton University",
+"Harvard University",
+"Columbia University"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In 2013 how much money was lost by Nigerian scams?",
+"correct_answer": "$12.7 Billion",
+"incorrect_answers": [
+"$95 Million",
+"$956 Million",
+"$2.7 Billion"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+"correct_answer": "Niagara Mohawk Building",
+"incorrect_answers": [
+"Taipei 101",
+"One Detroit Center",
+"Westendstrasse 1"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the atomic number of the element Strontium?",
+"correct_answer": "38",
+"incorrect_answers": [
+"73",
+"47",
+"11"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which one of these countries borders with Poland?",
+"correct_answer": "Lithuania",
+"incorrect_answers": [
+"France",
+"Norway",
+"Netherlands"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+"correct_answer": "103",
+"incorrect_answers": [
+"10",
+"59",
+"79"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What was the first &quot;Call Of Duty: Zombies&quot; map to be directed by Jason Blundell?",
+"correct_answer": "Mob Of The Dead",
+"incorrect_answers": [
+"Buried",
+"Origins",
+"Moon"
+]
+},
+{
+"category": "Entertainment: Music",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+"correct_answer": "Aero Deck",
+"incorrect_answers": [
+"Textuell",
+"Panorama",
+"Do While"
+]
+},
+{
+"category": "Animals",
+"type": "boolean",
+"difficulty": "easy",
+"question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+]
+}
+]
+}
